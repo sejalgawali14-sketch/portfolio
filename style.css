@@ -641,3 +641,22 @@
 
       }
   }
+
+    @media (max-width:500px) {
+        .section-title {
+            font-size: 28px;
+        }
+    
+        .leftsection h1 {
+            font-size: 32px;
+        }
+    
+        .leftsection p {
+            font-size: 16px;
+        }
+    
+        .leftsection button {
+            padding: 12px 25px;
+            font-size: 16px;
+        }
+    }
